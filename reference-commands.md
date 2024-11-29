@@ -29,7 +29,7 @@ docker build -t my_writer .
 
 ```bash
 # Create a directory on the host to store logs
-LOG_SRC=~/web-logs-example
+LOG_SRC=./web-logs-example
 mkdir -p ${LOG_SRC}
 ```
 
