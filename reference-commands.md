@@ -7,8 +7,8 @@
 - [Section 5: Cleanup](#section-5-cleanup)
 
 > **Author**: [Md Toriqul Islam](https://linkedin.com/TheToriqul)  
-> **Description**: Reference commands for sharing log files between Docker containers using bind mounts and volumes.
-> **Learning Focus**: Advanced Docker volume concepts, multi-container data sharing, and volume management.
+> **Description**: Reference commands for sharing log files between Docker containers using bind mounts and volumes.  
+> **Learning Focus**: Advanced Docker volume concepts, multi-container data sharing, and volume management.  
 > **Note**: This is a reference guide. Exercise caution and understand the implications before executing any commands.
 
 ## Section 1: Prerequisites
